@@ -19,3 +19,7 @@ PUBLISHED BY **ElahiNexusTech**
 DATED **December 31, 2023**
 
 DEVELOPED & CREATED BY **Muhammad Abdullah Elahi**
+
+
+# License
+Read `LICENSE.txt` file
