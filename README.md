@@ -10,7 +10,7 @@ The application for now only provides a Clock Widget, but in future updates ther
 
 The build enviroment for this software is set to x64 Bit Processor, NOTE they are not build on the ARM Based CPU Architecture or SoC Architecture but still be working on thoose Systems too. 
 
-# Application Images and Coding Enviroment
+# App Icon
 
 ![icon](https://github.com/elahinexustech/DeskWidgets/assets/141256860/1bcd81a7-48c5-400e-a0f5-e640764922c9)
 
