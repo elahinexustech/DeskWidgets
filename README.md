@@ -14,12 +14,11 @@ The build enviroment for this software is set to x64 Bit Processor, NOTE they ar
 
 ![icon](https://github.com/elahinexustech/DeskWidgets/assets/141256860/1bcd81a7-48c5-400e-a0f5-e640764922c9)
 
+# License
+Read `LICENSE.txt` file
+
 PUBLISHED BY **ElahiNexusTech**
 
 DATED **December 31, 2023**
 
 DEVELOPED & CREATED BY **Muhammad Abdullah Elahi**
-
-
-# License
-Read `LICENSE.txt` file
